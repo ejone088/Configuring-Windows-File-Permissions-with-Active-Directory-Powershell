@@ -1,4 +1,4 @@
-# Configuring Windows File Permissions with Active-Directory & Powershell
+# Configuring Windows File Permissions with Active Directory & Powershell
 The contents below include documentation of creating a folder structure, Active Directory security groups and configuring Windows File Permissions from the Windows UI and then from Powershell.
 
 # First Folder Structure (Windows UI)
